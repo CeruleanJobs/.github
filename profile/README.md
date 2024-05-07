@@ -1,4 +1,4 @@
-## Cerulean
+# Cerulean
 
 Jobs for Luxury Professionals.
 
